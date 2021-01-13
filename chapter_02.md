@@ -1,4 +1,4 @@
-# 第二章 JDBC
+# 第2章 JDBC
 
 一个数据库应用通过调用数据引擎的API与它进行交互.用于Java应用的API被称为JDBC(for Java DataBase Connectivity).JDBC库包含5个Java包,它们中的高级特性绝大多数都只在大型商业应用里有用.本章节着眼于java.sql包下的核心JDBC功能.这些核心功能分成两部分:basic JDBC,包含基本用处的类和方法;advanced JDBC,包含提供更方便和灵活的可选的类和方法.
 
